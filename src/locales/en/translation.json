@@ -1,0 +1,45 @@
+{
+    "en": "English",
+    "ru": "Russian",
+
+    "Change": "Change node",
+    "Add": "Add node",
+    "Delete": "Delete node",
+
+    "Change button": "Change",
+    "Add button": "Add",
+    "Delete button": "Delete",
+
+    "Name": "Name",
+    "IP address": "IP address",
+    "Port": "Port",
+    "Parent name": "Parent name",
+
+    "Cancel": "Cancel",
+    "no parent": "no",
+
+    "tree": "Tree",
+    "table": "Table",
+    "slider": "Slider",
+    "chat": "Chat",
+    "name enter": "Enter your name",
+    "save button": "Save",
+    "send button": "Send",
+
+    "OK!": "OK!",
+    "message add": "Node was successfully added",
+    "message change": "Node was successfully changed",
+    "message delete": "Node was successfully deleted",
+
+    "ERROR!": "ERROR!",
+    "422": "Node with these name / ip / port is already exists",
+    "401": "That node doesn't exist. Try to choose another node",
+    "501": "The server doesn't response. Try to refresh the page",
+
+    "port error": "Port should be an integer between 0 and 65535",
+    "ipAddress error": "IP address should match the pattern",
+    "name error": "Name should be defined",
+    "delete empty error": "This node does not exist or it has been deleted before",
+
+    "default error": "Something went wrong. Try one more time!"
+}
